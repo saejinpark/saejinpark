@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=my%20code%20archive&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=geppetto%20학습저장소&fontSize=90)
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
