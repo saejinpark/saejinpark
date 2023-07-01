@@ -29,11 +29,6 @@
         </strong>
       </summary>
       <table>
-        <colgroup>
-          <col />
-          <col />
-          <col width="300"/>
-        </colgroup>
         <thead>
           <tr>
             <th>교육기관</th>
@@ -105,7 +100,11 @@
                 </summary>
                 <blockquote>
                   <a href="http://www.boostcourse.org/certificate/A20220629-813783?langCode=ko">
-                    <img src="https://github.com/saejinpark/saejinpark/assets/54755633/c4837ea3-f4f7-4e97-bdb6-dada4c028f8f" alt="웹 백엔드 수료증"/>
+                    <img
+                      src="https://github.com/saejinpark/saejinpark/assets/54755633/c4837ea3-f4f7-4e97-bdb6-dada4c028f8f"
+                      width="300"
+                      alt="웹 백엔드 수료증"
+                    />
                   </a>
                 </blockquote>
               </details>
@@ -142,7 +141,10 @@
                 </summary>
                 <blockquote>
                   <a href="http://www.boostcourse.org/certificate/A20230202-228972?langCode=ko" />
-                    <img src="https://github.com/saejinpark/saejinpark/assets/54755633/7eca5907-24b3-4d3f-a491-bfda4c17263d" alt="웹 풀스택 수료증"/>
+                    <img src="https://github.com/saejinpark/saejinpark/assets/54755633/7eca5907-24b3-4d3f-a491-bfda4c17263d" 
+                      width="300"
+                      alt="웹 풀스택 수료증"
+                    />
                   </a>
                 </blockquote>
               </details>
@@ -171,7 +173,10 @@
               <details>
                 <summary>이미지</summary>
                 <blockquote>
-                  <img src="https://github.com/saejinpark/saejinpark/assets/54755633/6f105441-ceab-4bef-acd1-9afb5e227a6d" alt="수료증">
+                  <img src="https://github.com/saejinpark/saejinpark/assets/54755633/6f105441-ceab-4bef-acd1-9afb5e227a6d" 
+                    width="300"
+                    alt="수료증"
+                  />
                 </blockquote>
               </details>
             </td>
