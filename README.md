@@ -185,59 +185,63 @@
             </td>
             <td>
               <h3>개인 프로젝트</h3>
-              <dl>
-                <dt>정적 페이지 개발</dt>
-                <dd>
-                  HTML, CSS, DOM, Event 기초<br /> 브라우저 렌더링, git, Node.JS 개발환경, DOM APIs, Event 중급, Templating, 웹 애니메이션,
-                </dd>
-                <dt>데이터 통신</dt>
-                <dd>
-                  디버깅, 데이터 fetching, 비동기 통신, API Server
-                </dd>
-                <dt>알고리즘 구현</dt>
-                <dd>
-                  ES Classes,비동기제어, Promise 패턴, 정렬, 탐색
-                </dd>
-                <dt>쇼핑몰 개발</dt>
-                <dd>
-                  ES Modules, 객체지향 자바스크립트. MVC와 의존성관리, 재사용컴포넌트
-                </dd>
-                <dt>인터랙티브 웹사이트</dt>
-                <dd>
-                  Event 고급제어, 커스텀 웹서버
-                </dd>
-                <dt>FE 세미나</dt>
-                <dd>
-                  JS 특징 파헤치기
-                </dd>
-              </dl>
+              <ul>
+                <dl>
+                  <dt>정적 페이지 개발</dt>
+                  <dd>
+                    HTML, CSS, DOM, Event 기초<br /> 브라우저 렌더링, git, Node.JS 개발환경, DOM APIs, Event 중급, Templating, 웹 애니메이션,
+                  </dd>
+                  <dt>데이터 통신</dt>
+                  <dd>
+                    디버깅, 데이터 fetching, 비동기 통신, API Server
+                  </dd>
+                  <dt>알고리즘 구현</dt>
+                  <dd>
+                    ES Classes,비동기제어, Promise 패턴, 정렬, 탐색
+                  </dd>
+                  <dt>쇼핑몰 개발</dt>
+                  <dd>
+                    ES Modules, 객체지향 자바스크립트. MVC와 의존성관리, 재사용컴포넌트
+                  </dd>
+                  <dt>인터랙티브 웹사이트</dt>
+                  <dd>
+                    Event 고급제어, 커스텀 웹서버
+                  </dd>
+                  <dt>FE 세미나</dt>
+                  <dd>
+                    JS 특징 파헤치기
+                  </dd>
+                </dl>
+              </ul>
               <h3>팀 프로젝트</h3>
-              <dl>
-                <dt>할 일 관리 서비스</dt>
-                <dd>
-                  FE 빌드 (웹팩, 바벨), 옵저버 패턴, 함수단위 프로그래밍
-                </dd>
-                <dt>할 일 관리 서비스</dt>
-                <dd>
-                  FE 빌드 (웹팩, 바벨), 옵저버 패턴, 함수단위 프로그래밍
-                </dd>
-                <dt>온라인 주문 서비스</dt>
-                <dd>
-                  타입스크립트, 에러핸들링
-                </dd>
-                <dt>상품 관리</dt>
-                <dd>
-                  클라이언트 상태관리, React 기초
-                </dd>
-                <dt>온라인 예약 서비스</dt>
-                <dd>
-                  리액트 훅, 리액트 스타일, 커스텀 훅, 상태관리
-                </dd>
-                <dt>이슈 관리 서비스</dt>
-                <dd>
-                  컴포넌트 기반 개발, 스토리 북, 최적화, 테스팅
-                </dd>
-              </dl>
+              <ul>
+                <dl>
+                  <dt>할 일 관리 서비스</dt>
+                  <dd>
+                    FE 빌드 (웹팩, 바벨), 옵저버 패턴, 함수단위 프로그래밍
+                  </dd>
+                  <dt>할 일 관리 서비스</dt>
+                  <dd>
+                    FE 빌드 (웹팩, 바벨), 옵저버 패턴, 함수단위 프로그래밍
+                  </dd>
+                  <dt>온라인 주문 서비스</dt>
+                  <dd>
+                    타입스크립트, 에러핸들링
+                  </dd>
+                  <dt>상품 관리</dt>
+                  <dd>
+                    클라이언트 상태관리, React 기초
+                  </dd>
+                  <dt>온라인 예약 서비스</dt>
+                  <dd>
+                    리액트 훅, 리액트 스타일, 커스텀 훅, 상태관리
+                  </dd>
+                  <dt>이슈 관리 서비스</dt>
+                  <dd>
+                    컴포넌트 기반 개발, 스토리 북, 최적화, 테스팅
+                  </dd>
+                </dl>
+              </ul>
             </td>
           </tr>
         </tbody>
