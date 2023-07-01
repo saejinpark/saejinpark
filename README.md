@@ -45,6 +45,20 @@
               <code>웹 UI 개발</code>
             </td>
             <td>
+              <blockquote>
+                <details>
+                  <summary>
+                    <em>이미지 및 링크<em>
+                  </summary>
+                  <a href="https://www.boostcourse.org/certificate/A20220307-418895">
+                    <img
+                      src="https://github.com/saejinpark/saejinpark/assets/54755633/ef695292-ec38-42ca-86e0-97d0c132ca8b"
+                      width="300"
+                      alt="웹 UI 수료증"
+                    />
+                  </a>
+                </details>
+              </blockquote>
               <dl>
                 <dt>코스명</dt>
                 <dd>[부스트코스] 웹 UI 개발</dd>
@@ -53,20 +67,6 @@
                 <dt>기술 </dt>
                 <dd>웹 퍼블리싱, 시맨틱 마크업, 웹 접근성</dd>
               <dl>
-              <details>
-                <summary>
-                  <em>이미지 및 링크<em>
-                </summary>
-                <blockquote>
-                  <a href="https://www.boostcourse.org/certificate/A20220307-418895">
-                    <img
-                      src="https://github.com/saejinpark/saejinpark/assets/54755633/ef695292-ec38-42ca-86e0-97d0c132ca8b"
-                      width="300"
-                      alt="웹 UI 수료증"
-                    />
-                  </a>
-                </blockquote>
-              </details>
             </td>
           </tr>
           <tr>
@@ -74,6 +74,20 @@
               <code>웹 백엔드</code>
             </td>
             <td>
+              <blockquote>
+                <details>
+                  <summary>
+                    <em>이미지 및 링크<em>
+                  </summary>
+                  <a href="http://www.boostcourse.org/certificate/A20220629-813783?langCode=ko">
+                    <img
+                      src="https://github.com/saejinpark/saejinpark/assets/54755633/c4837ea3-f4f7-4e97-bdb6-dada4c028f8f"
+                      width="300"
+                      alt="웹 백엔드 수료증"
+                    />
+                  </a>
+                </details>
+              </blockquote>
               <dl>
                 <dt>
                   코스명
@@ -94,20 +108,6 @@
                   Spring, MySQL
                 </dd>
               <dl>
-              <details>
-                <summary>
-                  <em>이미지 및 링크<em>
-                </summary>
-                <blockquote>
-                  <a href="http://www.boostcourse.org/certificate/A20220629-813783?langCode=ko">
-                    <img
-                      src="https://github.com/saejinpark/saejinpark/assets/54755633/c4837ea3-f4f7-4e97-bdb6-dada4c028f8f"
-                      width="300"
-                      alt="웹 백엔드 수료증"
-                    />
-                  </a>
-                </blockquote>
-              </details>
             </td>
           </tr>
           <tr>
@@ -115,39 +115,27 @@
               <code>웹 풀스택</code>
             </td>
             <td>
-              <dl>
-                <dt>
-                  코스명
-                </dt>
-                <dd>
-                  [부스트코스] 웹프로그래밍
-                </dd>
-                <dt>
-                  언어 
-                </dt>
-                <dd>
-                  HTML, CSS, JavaScript, Java, Sql
-                </dd>
-                <dt>
-                  기술 
-                </dt>
-                <dd>
-                  웹 퍼블리싱, 시맨틱 마크업, 프론트엔드 개발, 웹 접근성, Spring, MySQL
-                </dd>
-              <dl>
-              <details>
-                <summary>
-                  <em>이미지 및 링크<em>
-                </summary>
-                <blockquote>
+              <blockquote>
+                <details>
+                  <summary>
+                    <em>이미지 및 링크<em>
+                  </summary>
                   <a href="http://www.boostcourse.org/certificate/A20230202-228972?langCode=ko" />
                     <img src="https://github.com/saejinpark/saejinpark/assets/54755633/7eca5907-24b3-4d3f-a491-bfda4c17263d" 
                       width="300"
                       alt="웹 풀스택 수료증"
                     />
                   </a>
-                </blockquote>
-              </details>
+                </details>
+              </blockquote>
+              <dl>
+                <dt>코스명</dt>
+                <dd>[부스트코스] 웹프로그래밍</dd>
+                <dt>언어 </dt>
+                <dd>HTML, CSS, JavaScript, Java, Sql</dd>
+                <dt>기술 </dt>
+                <dd>웹 퍼블리싱, 시맨틱 마크업, 프론트엔드 개발, 웹 접근성, Spring, MySQL</dd>
+              <dl>
             </td>
           </tr>
           <tr>
@@ -158,6 +146,15 @@
               <code>Web·Mobile 챌린지</code>
             </td>
             <td>
+              <blockquote>
+                <details>
+                  <summary>이미지</summary>
+                  <img src="https://github.com/saejinpark/saejinpark/assets/54755633/6f105441-ceab-4bef-acd1-9afb5e227a6d" 
+                    width="300"
+                    alt="수료증"
+                  />
+                </details>
+              </blockquote>
               <ol>
                 <li>버전관리도구(git과 GitHub)</li>
                 <li>프로그래밍 언어 기본 : JavaScript</li>
@@ -170,15 +167,6 @@
                 <li>자료구조</li>
                 <li>네트워크 프로그래밍</li>
               </ol>
-              <details>
-                <summary>이미지</summary>
-                <blockquote>
-                  <img src="https://github.com/saejinpark/saejinpark/assets/54755633/6f105441-ceab-4bef-acd1-9afb5e227a6d" 
-                    width="300"
-                    alt="수료증"
-                  />
-                </blockquote>
-              </details>
             </td>
           </tr>
           <tr>
