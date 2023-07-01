@@ -42,7 +42,7 @@
         <tbody>
           <tr>
             <td rowspan="3">
-              <img src="https://ssl.pstatic.net/static/m/mooc/p/partner/boostcrs/new_boostcourse_18.svg" width="80"/>
+              <img src="https://ssl.pstatic.net/static/m/mooc/p/partner/boostcrs/new_boostcourse_18.svg" width="150"/>
             </td>
             <td>
               <code>웹 UI 개발</code>
@@ -146,7 +146,7 @@
           </tr>
           <tr>
             <td>
-              <img src="https://ssl.pstatic.net/static/dm/boostcamp/img/img_boostcamp_logo_m.png"  width="80"/>
+              <img src="https://ssl.pstatic.net/static/dm/boostcamp/img/img_boostcamp_logo_m.png"  width="150"/>
             </td>
             <td>
               <code>Web·Mobile 챌린지</code>
@@ -178,7 +178,7 @@
           </tr>
           <tr>
             <td>
-              <img src="https://www.codesquad.kr/static/home1-7c5957508cc4189f879e921c33243e12.svg" width="80"/>
+              <img src="https://www.codesquad.kr/static/home1-7c5957508cc4189f879e921c33243e12.svg" width="150"/>
             </td>
             <td>
               <code>마스터즈 프론트엔드 코스</code>
