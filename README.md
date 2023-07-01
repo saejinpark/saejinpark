@@ -3,22 +3,24 @@
   <section>
     <h2>기술스택</h2>
     <p>프론트엔드 개발자를 지향하며 시맨틱 마크업과 접근성을 중점적으로 공부하였고 거기에 살을 붙인다는 생각으로 공부를 하고 있습니다.</p>
-    <section>
-      <h3>중점적으로 사용하는 것들<h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
-    </section>
-    <section>
-      <h3>사용가능</h3>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
-    </section>
-    <section>
-      <h3>경험해 보았으나 사용하지 않는 기술</h3>
-      <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
-    </section>
+    <ul>
+      <section>
+        <h3>중점적으로 사용하는 것들</h3>
+          <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+      </section>
+      <section>
+        <h3>사용가능</h3>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
+      </section>
+      <section>
+        <h3>경험해 보았으나 사용하지 않는 기술</h3>
+        <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
+      </section>
+    </ul>
   </section>
   <section>
     <h2>교육</h2>
@@ -28,6 +30,7 @@
           <em>열기</em>
         </strong>
       </summary>
+      <hr />
       <table>
         <thead>
           <tr>
@@ -50,6 +53,7 @@
                   <summary>
                     <em>이미지 및 링크<em>
                   </summary>
+                  <hr />
                   <a href="https://www.boostcourse.org/certificate/A20220307-418895">
                     <img
                       src="https://github.com/saejinpark/saejinpark/assets/54755633/ef695292-ec38-42ca-86e0-97d0c132ca8b"
@@ -79,6 +83,7 @@
                   <summary>
                     <em>이미지 및 링크<em>
                   </summary>
+                  <hr />
                   <a href="http://www.boostcourse.org/certificate/A20220629-813783?langCode=ko">
                     <img
                       src="https://github.com/saejinpark/saejinpark/assets/54755633/c4837ea3-f4f7-4e97-bdb6-dada4c028f8f"
@@ -120,6 +125,7 @@
                   <summary>
                     <em>이미지 및 링크<em>
                   </summary>
+                  <hr />
                   <a href="http://www.boostcourse.org/certificate/A20230202-228972?langCode=ko" />
                     <img src="https://github.com/saejinpark/saejinpark/assets/54755633/7eca5907-24b3-4d3f-a491-bfda4c17263d" 
                       width="300"
@@ -149,6 +155,7 @@
               <blockquote>
                 <details>
                   <summary>이미지</summary>
+                  <hr />
                   <img src="https://github.com/saejinpark/saejinpark/assets/54755633/6f105441-ceab-4bef-acd1-9afb5e227a6d" 
                     width="300"
                     alt="수료증"
