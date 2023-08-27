@@ -248,4 +248,10 @@
       </table>
     </details>
   </section>
+  <section>
+    <h2>그 외</h2>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="박세진">
+    <br/>
+    <code>학습</code>: <code><a href="https://github.com/orgs/Pinocchio-s-house/discussions">피노키오의 집</a></code>
+  </section>
 </main>
