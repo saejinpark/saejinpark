@@ -250,17 +250,15 @@
   </section>
   <section>
     <h2>그 외</h2>
-    <ul>
-      <dl>
-        <dt>소셜</dt>
-        <dd>
-          <a href="https://www.linkedin.com/in/%EC%84%B8%EC%A7%84-%EB%B0%95-770b57233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="박세진"></a>
-        </dd>
-        <dt>학습</dt>
-        <dd>
-          <a href="https://github.com/orgs/Pinocchio-s-house/discussions"><img src="https://img.shields.io/badge/Pinocchio-house-house?style=for-the-badge&logo=Pinocchio%2520house" alt="피노키오의 집"></a>
-        </dd>
-      </dl>
-    </ul>
+    <dl>
+      <dt>소셜</dt>
+      <dd>
+        <a href="https://www.linkedin.com/in/%EC%84%B8%EC%A7%84-%EB%B0%95-770b57233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="박세진"></a>
+      </dd>
+      <dt>학습</dt>
+      <dd>
+        <a href="https://github.com/orgs/Pinocchio-s-house/discussions"><img src="https://img.shields.io/badge/Pinocchio-house-house?style=for-the-badge&logo=Pinocchio%2520house" alt="피노키오의 집"></a>
+      </dd>
+    </dl>
   </section>
 </main>
