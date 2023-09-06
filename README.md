@@ -181,7 +181,13 @@
               <img src="https://www.codesquad.kr/static/home1-7c5957508cc4189f879e921c33243e12.svg" width="150"/>
             </td>
             <td>
-              <code>마스터즈 프론트엔드 코스</code>
+              프론트엔드
+              <br />
+              마스터즈 max
+              <br />
+              <code>2023-01-01</code>
+              <br />
+              ~ <code>2023-09-05</code>
             </td>
             <td>
               <h3>개인 프로젝트</h3>
