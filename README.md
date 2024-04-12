@@ -4,8 +4,6 @@
     건축과 같은 개발을 희망하는 개발자 <b><code>제페토</code></b>입니다.<br />
     네이버 커넥트 재단에서 제공하는 <a href="https://www.boostcourse.org/"><code>boostcourse</code></a>에서 코드리뷰를 받으면 본격적으로 공부를 시작했습니다.<br />
     이후에는 학습을 지속하기 위해 여러 부트캠프( <a href="https://boostcamp.connect.or.kr/"><code>boostcamp</code></a>, <a href="https://www.codesquad.kr/"><code>codesquad</code></a>)들에 참여하였습니다.<br />
-    현재는 내년에 있을 애플 디벨로퍼 아카데미에 참여하게 되어 스스로 부족하다고 생각하는 부분들을 채우고 있습니다.<br />
-    시맨틱 마크업과 접근성을 중점적으로 공부하였고 거기에 살을 붙인다는 생각으로 공부를 이어가고 있습니다.<br />
   </p>
   <section>
     <h2>기술스택</h2>
