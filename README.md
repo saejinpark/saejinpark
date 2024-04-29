@@ -7,27 +7,6 @@
     현재는 애플 디벨로퍼 아카데미 3기 러너로 활동하고 있습니다.
   </p>
   <section>
-    <h2>기술스택</h2>
-    <ul>
-      <section>
-        <h3>중점적으로 사용하는 것들</h3>
-          <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
-      </section>
-      <section>
-        <h3>사용가능</h3>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL" />
-      </section>
-      <section>
-        <h3>경험해 보았으나 사용하지 않는 기술</h3>
-        <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring"/>
-      </section>
-    </ul>
-  </section>
-  <section>
     <h2>교육</h2>
     <details>
       <summary>
