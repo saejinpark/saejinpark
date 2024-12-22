@@ -4,9 +4,9 @@
     건축과 같은 표준화된 개발을 희망하는 개발자 <b><code>제페토</code></b>입니다.<br />
     네이버 커넥트 재단에서 제공하는 <a href="https://www.boostcourse.org/"><code>boostcourse</code></a>에서 코드리뷰를 받으면 본격적으로 공부를 시작했습니다.<br />
     이후에는 학습을 지속하기 위해 여러 부트캠프( <a href="https://boostcamp.connect.or.kr/"><code>boostcamp</code></a>, <a href="https://www.codesquad.kr/"><code>codesquad</code></a>)들에 참여하였습니다.<br />
-    그리고 앱 개발에도 흥미를 느껴 애플 디벨로퍼 아카데미에 참여하며 iOS 개발을 공부했습니다.  
-    웹표준과 HIG를 좋아하고 접근성을 선망합니다.  
-    자신있게 사용하는 기술은 HTML/CSS, SwiftUI 입니다.
+    그리고 앱 개발에도 흥미를 느껴 애플 디벨로퍼 아카데미에 참여하며 iOS 개발을 공부했습니다.<br>
+    웹표준과 HIG를 좋아하고 접근성을 선망합니다.<br>
+    자신있게 사용하는 기술은 HTML/CSS, SwiftUI 입니다. 
   </p>
   <section>
     <h2>교육</h2>
